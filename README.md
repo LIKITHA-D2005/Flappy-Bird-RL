@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird RL: Deep Q-Learning Agent
+# 🐦 Flappy Bird Smart Agent: Deep Q-Learning Agent
 
 ## 📌 Overview
 This project implements a **Deep Q-Learning (DQN)** agent to play Flappy Bird using Reinforcement Learning.  
